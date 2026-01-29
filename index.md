@@ -1,11 +1,6 @@
 ---
 layout: default
-title: SCAR Krill Expert Group Interim Webpage
----
-
-# SKEG 2026 Mini-Symposium
-## April 13-14, 2026 | Virtual Event
-
+title: SKEG Interim Webpage
 ---
 
 ## Welcome!
@@ -22,7 +17,7 @@ The **SKEG 2026 Mini-Symposium** returns for its second year, bringing together 
 **Registration:** Opens mid February  
 **Session Time:** TBD based on participant locations  
 
-Check out our [Latest Update] below for announcements about registration, keynote speakers, and the call for presentations!
+Check out our [Latest Update]({% post_url 2026-01-28-2026-Symposium-Announcement %}) below for announcements about registration, keynote speakers, and the call for presentations!
 
 ---
 
