@@ -1,6 +1,10 @@
-# Basic Site Settings
-theme: minima
+# # Site wide configuration
+
+title: SCAR Krill Expert Group
+locale: un_US
+logo:  # filename of a logo image that has been placed into your images directory
 author: SKEG Communications & Outreach Task Force
+
 description: SKEG provides a forum to guide research directions, promote collaboration, improve understanding of krill biology and ecology, and thus assist in providing critical scientific information relevant to krill fishery management. 
 url: https://SCAR-Krill-Expert-Group.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 baseurl: "/posts" # the subpath of your site, e.g. "/blog"
