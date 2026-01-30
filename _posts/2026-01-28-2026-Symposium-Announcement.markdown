@@ -2,6 +2,7 @@
 title: "SKEG 2026 Mini-Symposium Announced - April 13-14"
 date: 2026-01-28
 ---
+## **[🔗 REGISTER NOW - A Virtual Event: April 13th and 14th](https://forms.office.com/r/7Dtcvr3Xuz)**
 
 We're excited to announce that the SKEG 2026 Mini-Symposium will take place **April 13-14, 2026** as a virtual event!
 
