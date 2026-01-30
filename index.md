@@ -14,7 +14,7 @@ The **SKEG 2026 Mini-Symposium** returns for its second year, bringing together 
 
 **Dates:** April 13-14, 2026  
 **Format:** Virtual (Zoom)  
-**[🔗 Complete this form](https://forms.office.com/r/7Dtcvr3Xuz)**
+**[🔗 REGISTER NOW](https://forms.office.com/r/7Dtcvr3Xuz)**
 
 **Session Time:** based on participant locations, please fill out the above form to help determine the times  
 
