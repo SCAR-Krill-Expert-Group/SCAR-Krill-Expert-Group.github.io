@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Current Work"
+    url: /current-work/
   - title: "Events"
     url: /events/
   - title: "News"

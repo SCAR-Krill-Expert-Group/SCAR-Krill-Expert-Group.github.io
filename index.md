@@ -3,7 +3,6 @@ layout: home
 title: "Welcome"
 ---
 
-# Welcome!
 *The main SKEG website is temporarily down for maintenance. This page will serve as the information hub for all SKEG news and updates until further notice.*
 
 ---

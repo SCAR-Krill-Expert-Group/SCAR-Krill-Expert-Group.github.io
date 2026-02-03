@@ -31,12 +31,5 @@ SKEG convenes annual meetings, workshops and/or symposiums to share research and
 
 ## Current Work
 
-In 2025, SKEG restructured around a Task Force model to address specific challenges between annual symposiums. Active Task Forces are:
-
-- **Krill Flux TF** – Establishing a circumpolar mooring network to monitor krill transport and connectivity, with deployments planned aboard RV Polarstern in 2027.
-- **Fisheries Indices TF** – Refining stock assessment parameters (growth, recruitment, maturity) and preparing working papers for CCAMLR's Working Group on Ecosystem Monitoring and Management.
-- **KrillBASE TF** – Updating the KRILLBASE database with post-2014 data and improving coverage in underrepresented regions.
-- **Communication & Outreach TF** – Enhancing public and stakeholder engagement through science communication.
-
-SKEG is also exploring the development of a Krill Carbon Sequestration TF to coordinate research on krill's role in carbon export and its recognition within CCAMLR's policy framework. Additionally, SKEG is advancing cross-taxa collaboration, particularly integrating whale science into krill management through partnerships with the IWC and emerging programs like the Humpback Whale Sentinel Program.
+In 2025, SKEG restructured around a Task Force model to address specific challenges between annual symposiums. Check out the [Current Work](/current-work/) page to learn more about the Active Task Forces.
 
