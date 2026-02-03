@@ -1,6 +1,6 @@
 ---
-layout: default
-title: SKEG Interim Webpage
+layout: home
+title: "Welcome"
 ---
 
 # Welcome!
