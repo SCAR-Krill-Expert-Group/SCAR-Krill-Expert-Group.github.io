@@ -34,4 +34,10 @@ Stay tuned for more details in the coming weeks!
 
 ---
 
+## Register Now
+
+<iframe width="640px" height="480px" src="https://forms.office.com/r/7Dtcvr3Xuz?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+---
+
 *Questions? Contact the planning team at [TBD]*
