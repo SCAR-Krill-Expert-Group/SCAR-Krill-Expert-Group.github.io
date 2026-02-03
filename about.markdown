@@ -4,40 +4,39 @@ title: About
 permalink: /about/
 ---
 
+## Why Krill?
 
-Antarctic krill play a vital role in the Antarctic food web, providing a major part of the diet of larger species such as whales, seals, penguins and fish. They are also commercially fished in the Southern Ocean and used in the production of fish food, animal feed and human dietary supplements.  But even after almost 100 years of research into krill, our understanding of their life history, seasonal spatial dynamics, and response to climate change, is largely unknown. These data gaps limit our ability to predict krill population shifts, according to projected climate change scenarios for the Southern Ocean, an important aspect for krill fisheries management. 
+Antarctic krill play a vital role in the Antarctic food web, providing a major part of the diet of larger species such as whales, seals, penguins and fish. They are also commercially fished in the Southern Ocean and used in the production of fish food, animal feed and human dietary supplements. But even after almost 100 years of research into krill, our understanding of their life history, seasonal spatial dynamics, and response to climate change remains limited. These knowledge gaps make it difficult to predict how krill populations will shift under climate change—a critical question for both conservation and fisheries management.
 
-SKEG provides a forum to guide research directions, promote collaboration, improve understanding of krill biology and ecology, and thus assist in providing critical scientific information relevant to krill fishery management. Furthermore, since ship time for krill fieldwork is becoming more scarce, the group provides a forum for information exchange on upcoming cruises and funding opportunities, as well as laboratory facilities for experimental krill work, and serves as a platform for the development of future international collaborative research proposals and programmes.
+## About SKEG
 
-The SCAR Krill Expert Group (SKEG) seeks to:
+The SCAR Krill Expert Group is a volunteer-driven network that provides the forum for researchers, industry, and policymakers to connect and build towards improving our understanding of krill biology and ecology.
 
-* improve our understanding of krill biology and ecology;
-* serve as the primary conduit between the wider krill scientific community and the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR), which manages and monitors the Antarctic krill fishery;
-* provide a forum to guide research directions, encourage information exchange and dialogue between krill researchers, fisheries and society;
-* promote collaboration within the krill community with emphasis on early-career researchers.
+## Our Aims
 
-SKEG members come from a wide range of institutions, including the CCAMLR Secretariat, universities, national laboratories, NGO’s, and industry. SKEG interacts with, and provides essential input to existing SCAR groups, such as Integrating Climate and Ecosystem Dynamics in the Southern Ocean (ICED).
+- **Increase Knowledge** – Improve our understanding of krill biology and ecology.
+- **Improve Collaboration** – Promote collaboration within the krill community, with emphasis on early-career researchers.
+- **Connect the Community** – Serve as the primary conduit between the krill research community and CCAMLR, the body responsible for managing the Antarctic krill fishery.
+- **Facilitate Research** – Guide research directions and encourage information exchange on cruises, funding opportunities, and laboratory facilities.
 
-Aims and future activities
-SCAR Krill Expert Group (SKEG) will:
+## Who is SKEG
 
-1) Assist and inform CCAMLR of the latest scientific knowledge on krill biology and ecology to improve management decisions for the krill fishery.
-2) Identify fundamental gaps and possible new research directions for krill research.
-3) Function as a conduit for the wider krill community outside CCAMLR to access opportunities for research and collaboration, including that with the commercial krill fishing operators.
-4) Interact with, and provide input to, existing SCAR groups, to improve our understanding of Southern Ocean ecosystems and the impacts of climate change thereon.
+SKEG is an expert group within SCAR (the Scientific Committee on Antarctic Research), which coordinates international scientific research in the Antarctic region and provides advice to the Antarctic Treaty and other policy bodies. SKEG members come from universities, national laboratories, NGOs, the fishing industry, and the CCAMLR Secretariat, united by a shared commitment to advancing krill science through collaboration.
 
+[Join the community →](https://form.jotformeu.com/92963767887382)
 
+## How We Work
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+SKEG convenes annual meetings, workshops and/or symposiums to share research and build community. Between meetings, Task Forces (small working groups co-led by pairs of scientists) tackle specific challenges, from updating shared databases to coordinating field deployments. This structure keeps collaboration moving year-round and creates entry points for researchers at any career stage to contribute.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Current Work
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In 2025, SKEG restructured around a Task Force model to address specific challenges between annual symposiums. Active Task Forces are:
 
+- **Krill Flux TF** – Establishing a circumpolar mooring network to monitor krill transport and connectivity, with deployments planned aboard RV Polarstern in 2027.
+- **Fisheries Indices TF** – Refining stock assessment parameters (growth, recruitment, maturity) and preparing working papers for CCAMLR's Working Group on Ecosystem Monitoring and Management.
+- **KrillBASE TF** – Updating the KRILLBASE database with post-2014 data and improving coverage in underrepresented regions.
+- **Communication & Outreach TF** – Enhancing public and stakeholder engagement through science communication.
+- **Krill Carbon Sequestration TF** *(in development)* – Coordinating research on krill's role in carbon export and its recognition within CCAMLR's policy framework.
 
-[jekyll-organization]: https://github.com/jekyll
-
+SKEG is also advancing cross-taxa collaboration, particularly integrating whale science into krill management through partnerships with the IWC and emerging programs like the Humpback Whale Sentinel Program.
