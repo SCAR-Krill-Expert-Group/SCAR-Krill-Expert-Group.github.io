@@ -26,4 +26,14 @@ Find details on SKEG symposia, workshops, webinars, and other opportunities to c
 
 ## Past Events
 
-*Archive coming soon*
+{% assign past_events = site.posts | where: "category", "events" %}
+{% for post in past_events %}
+{% if post.date < site.time %}
+  {% unless post.title contains "2026" %}
+<article>
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  <p class="post-meta">{{ post.date | date: "%B %Y" }}</p>
+</article>
+  {% endunless %}
+{% endif %}
+{% endfor %}
