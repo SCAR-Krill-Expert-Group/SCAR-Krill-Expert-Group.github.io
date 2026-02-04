@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-![SKEG News Bulletin](/assets/skeg-new-bulletin-v2.png){: .align-center style="max-width: 400px;"}
+![SKEG News Bulletin](/assets/skeg-new-bulletin-v2.png){: .align-center style="max-width: 600px;"}
 
 ## Latest Updates
 
