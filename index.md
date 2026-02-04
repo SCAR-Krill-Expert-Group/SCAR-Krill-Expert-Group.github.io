@@ -9,7 +9,7 @@ title: "Welcome"
 
 ## Latest Updates
 
-The **[SKEG 2026 Mini-Symposium](/2026/01/28/2026-Symposium-Announcement.html)** returns for its second year, bringing together Antarctic krill researchers from around the world to share recent science and foster collaboration.
+The **[SKEG 2026 Mini-Symposium](/events/2026/01/28/2026-Symposium-Announcement.html)** returns for its second year, bringing together Antarctic krill researchers from around the world to share recent science and foster collaboration.
 
 **Dates:** April 13-14, 2026  
 **Format:** Virtual (Zoom)  
