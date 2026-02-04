@@ -21,9 +21,10 @@ Following last year's success, we're bringing back all the popular formats:
 
 ### Timeline
 
-- **Mid February:** Registration and call for presentations open
-- **March 2:** Presentation submissions due
-- **Mid-March:** Full agenda published
+- **Feb 2:** Registration open
+- **Feb 13:** Call for abstracts open
+- **March 13:** Presentation submission due
+- **March 23:** Full agenda announced
 - **April 13-14:** Symposium days!
 
 ### Can't Attend Live?
