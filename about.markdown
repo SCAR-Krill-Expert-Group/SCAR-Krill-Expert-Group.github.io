@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![SKEG Logo](/assets/logos/logo-SKEG-3.2-black-text.png){: .align-center style="max-width: 300px;"}
+
 ## Why Krill?
 
 Antarctic krill play a vital role in the Antarctic food web, providing a major part of the diet of larger species such as whales, seals, penguins and fish. They are also commercially fished in the Southern Ocean and used in the production of fish food, animal feed and human dietary supplements. But even after almost 100 years of research into krill, our understanding of their life history, seasonal spatial dynamics, and response to climate change remains limited. These knowledge gaps make it difficult to predict how krill populations will shift under climate change—a critical question for both conservation and fisheries management.
@@ -29,7 +31,7 @@ SKEG is an expert group within SCAR (the Scientific Committee on Antarctic Resea
 
 SKEG convenes annual meetings, workshops and/or symposiums to share research and build community. Between meetings, Task Forces (small working groups co-led by pairs of scientists) tackle specific challenges, from updating shared databases to coordinating field deployments. This structure keeps collaboration moving year-round and creates entry points for researchers at any career stage to contribute.
 
-## Current Work
+Learn more about our [Active Task Forces →](/current-work/)
 
-In 2025, SKEG restructured around a Task Force model to address specific challenges between annual symposiums. Check out the [Current Work](/current-work/) page to learn more about the Active Task Forces.
+See our [Upcoming Events →](/events/)
 

@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+![SKEG News Bulletin](/assets/skeg-new-bulletin-v2.png){: .align-center style="max-width: 400px;"}
+
 ## Latest Updates
 
 Stay up to date with the latest from SKEG—research highlights, task force updates, member activities, and news from related meetings and workshops.

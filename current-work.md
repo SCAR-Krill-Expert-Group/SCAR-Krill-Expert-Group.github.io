@@ -11,22 +11,22 @@ In 2025, SKEG restructured around a Task Force model to address specific challen
 <div class="taskforce-grid">
   <div class="taskforce-card">
     <img src="/assets/taskforces/KF-TF-B-wtext.png" alt="Krill Flux Task Force">
-    <p>Establishing a circumpolar mooring network to monitor krill transport and connectivity, with deployments planned aboard RV Polarstern in 2027.</p>
+    <p>Monitor krill transport and connectivity through a circumpolar mooring network.</p>
   </div>
 
   <div class="taskforce-card">
     <img src="/assets/taskforces/FI-TF-B-wtext.png" alt="Fisheries Indices Task Force">
-    <p>Refining stock assessment parameters (growth, recruitment, maturity) and preparing working papers for CCAMLR's Working Group on Ecosystem Monitoring and Management.</p>
+    <p>Refine stock assessment parameters for CCAMLR fisheries management.</p>
   </div>
 
   <div class="taskforce-card">
     <img src="/assets/taskforces/KB-TF-B-wtext.png" alt="KrillBASE Task Force">
-    <p>Updating the KRILLBASE database with post-2014 data and improving coverage in underrepresented regions.</p>
+    <p>Maintain and expand the KRILLBASE circumpolar database.</p>
   </div>
 
   <div class="taskforce-card">
     <img src="/assets/taskforces/CO-TF-B-wtext.png" alt="Communication & Outreach Task Force">
-    <p>Enhancing public and stakeholder engagement through science communication.</p>
+    <p>Enhance public engagement through science communication.</p>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ Additionally, SKEG is advancing cross-taxa collaboration, particularly integrati
 }
 
 .taskforce-card img {
-  max-width: 150px;
+  max-width: 250px;
   height: auto;
   margin-bottom: 1rem;
 }
