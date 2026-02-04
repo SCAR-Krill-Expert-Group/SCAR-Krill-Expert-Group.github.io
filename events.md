@@ -37,3 +37,7 @@ Find details on SKEG symposia, workshops, webinars, and other opportunities to c
   {% endunless %}
 {% endif %}
 {% endfor %}
+
+---
+
+*For events prior to 2023, please visit the [SCAR Documents Archive](https://scar.org/~documents/science-4/life-sciences/skeg?layout=list).*
