@@ -1,5 +1,5 @@
 ---
-title: "2nd Krill Science Horizons Workshop (2024)"
+title: "2nd Krill Stock Hypothesis Workshop (2024)"
 date: 2024-07-15
 category: events
 ---

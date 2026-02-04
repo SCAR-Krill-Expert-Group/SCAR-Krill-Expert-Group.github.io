@@ -1,5 +1,5 @@
 ---
-title: "1st Krill Science Horizons Workshop (2023)"
+title: "1st Krill Stock Hypothesis Workshop (2023)"
 date: 2023-07-15
 category: events
 ---
