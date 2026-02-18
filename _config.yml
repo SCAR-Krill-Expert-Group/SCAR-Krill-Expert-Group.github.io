@@ -17,6 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-redirect-from
 
 # Site logo (appears in masthead)
 logo: "/assets/logos/logo-SKEG-3.2-black-text.png"
